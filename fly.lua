@@ -471,4 +471,4 @@ mini.Visible = true
 mini2.Visible = false
 main.Frame.BackgroundTransparency = 0 
 closebutton.Position = UDim2.new(0, 0, -1, 27)
-end)     
+end)
