@@ -103,7 +103,7 @@ closebutton.Parent = main.Frame
 closebutton.BackgroundColor3 = Color3.fromRGB(225, 25, 0)
 closebutton.Font = "SourceSans"
 closebutton.Size = UDim2.new(0, 45, 0, 28)
-closebutton.Text = "Close"
+closebutton.Text = "X"
 closebutton.TextSize = 30
 closebutton.Position = UDim2.new(0, 0, -1, 27) 
 
@@ -112,7 +112,7 @@ mini.Parent = main.Frame
 mini.BackgroundColor3 = Color3.fromRGB(192, 150, 230)
 mini.Font = "SourceSans"
 mini.Size = UDim2.new(0, 45, 0, 28)
-mini.Text = "Minimize"
+mini.Text = "-"
 mini.TextSize = 40
 mini.Position = UDim2.new(0, 44, -1, 27) 
 
